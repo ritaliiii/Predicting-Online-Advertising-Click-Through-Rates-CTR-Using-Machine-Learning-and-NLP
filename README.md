@@ -77,3 +77,11 @@ This project applies diverse set of machine learning models, enhance them with f
 - Soft Voting Ensemble for performance aggregation  
 
 ---
+
+## Visualization Excerpts
+
+<img width="624" height="492" alt="Screenshot 2025-07-16 at 21 03 01" src="https://github.com/user-attachments/assets/a2c4825a-36ab-4157-81ef-45c79d418bd5" />
+<img width="640" height="344" alt="Screenshot 2025-07-16 at 21 03 27" src="https://github.com/user-attachments/assets/f384f7a3-8bdb-4bc8-b058-d1ccbbc994c8" />
+<img width="558" height="380" alt="Screenshot 2025-07-16 at 21 03 46" src="https://github.com/user-attachments/assets/38f277b4-58a8-4083-b4c7-6473273de849" />
+
+
